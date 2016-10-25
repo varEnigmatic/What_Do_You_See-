@@ -1,0 +1,17 @@
+
+body {
+	background-color: #e4e4e4;
+}
+
+#div-1 {
+	text-align: center;
+	width: 100%;
+	margin: 0;
+}
+
+.box__dragndrop,
+.box__uploading,
+.box__success,
+.box__error {
+  display: none;
+}
